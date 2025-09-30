@@ -1,4 +1,4 @@
-My second project
+My second project on github
 
 Easy but Powerfull
 
